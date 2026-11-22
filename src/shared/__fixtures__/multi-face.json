@@ -1,0 +1,41 @@
+{
+  "object": "card",
+  "id": "0d16e8e0-31b2-4389-afd6-783c501f6fa0",
+  "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+  "layout": "transform",
+  "mana_cost": "",
+  "type_line": "Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani",
+  "artist": "Chris Rallis",
+  "set_name": "Modern Horizons 3",
+  "collector_number": "237",
+  "scryfall_uri": "https://scryfall.com/card/mh3/237/ajani-nacatl-pariah-ajani-nacatl-avenger",
+  "card_faces": [
+    {
+      "name": "Ajani, Nacatl Pariah",
+      "mana_cost": "{1}{W}",
+      "type_line": "Legendary Creature — Cat Warrior",
+      "oracle_text": "When Ajani enters, create a 2/1 white Cat Warrior creature token.",
+      "artist": "Chris Rallis",
+      "image_uris": {
+        "small": "https://example.test/cards/ajani-front-small.jpg",
+        "normal": "https://example.test/cards/ajani-front-normal.jpg"
+      }
+    },
+    {
+      "name": "Ajani, Nacatl Avenger",
+      "mana_cost": "",
+      "type_line": "Legendary Planeswalker — Ajani",
+      "oracle_text": "+2: Put a +1/+1 counter on each Cat you control.",
+      "artist": "Chris Rallis",
+      "image_uris": {
+        "small": "https://example.test/cards/ajani-back-small.jpg",
+        "normal": "https://example.test/cards/ajani-back-normal.jpg"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "modern": "legal",
+    "commander": "legal"
+  }
+}

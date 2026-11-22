@@ -1,0 +1,23 @@
+{
+  "object": "card",
+  "id": "00000000-0000-4000-8000-000000000001",
+  "name": "Lightning Bolt",
+  "mana_cost": "{R}",
+  "type_line": "Instant",
+  "oracle_text": "Lightning Bolt deals 3 damage to any target.",
+  "artist": "Christopher Rush",
+  "set_name": "Limited Edition Alpha",
+  "collector_number": "161",
+  "scryfall_uri": "https://scryfall.com/card/lea/161/lightning-bolt",
+  "image_uris": {
+    "small": "https://example.test/cards/bolt-small.jpg",
+    "normal": "https://example.test/cards/bolt-normal.jpg"
+  },
+  "legalities": {
+    "standard": "not_legal",
+    "modern": "legal",
+    "commander": "legal",
+    "vintage": "restricted",
+    "pauper": "banned"
+  }
+}
